@@ -17,7 +17,6 @@ deps:
 	go get -u github.com/cihub/seelog
 	go get -u github.com/go-kit/kit/log
 	go get -u github.com/rs/zerolog
-	go get -u fortio.org/fortio
 
 test: test-text test-json
 
